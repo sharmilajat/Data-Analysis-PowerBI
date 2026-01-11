@@ -119,7 +119,7 @@ This project focuses on designing and developing an interactive Car Sales Dashbo
 
 ## 📷 Dashboard Preview
 
-/car_sales_sceenshot.PNG
+[/car_sales_sceenshot.PNG](https://car_sales_sceenshot.PNG)
 
 ## 🚀 Conclusion
 
