@@ -119,8 +119,8 @@ This project focuses on designing and developing an interactive Car Sales Dashbo
 
 ## 📷 Dashboard Preview
 
+car_sales_sceenshot.PNG
 
-![Car Sales Dashboard](images/car_sales_dashboard.png)
 ## 🚀 Conclusion
 
 The Car Sales Dashboard provides a comprehensive and interactive view of sales performance, empowering the dealership to monitor KPIs, understand customer preferences, and drive strategic business decisions efficiently.
